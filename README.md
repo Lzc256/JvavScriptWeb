@@ -5,10 +5,35 @@
 
 # 提醒
 
-注意：这是一个梗，并非真实存在的编程语言。 未经 lzc(或 lzc256 , Lzc256) 允许，禁止在 www.jvavscript.xyz 或 jvavscript.xyz 以外的任何地方使用这些代码。 为了满足需求，我们开设了 JvavScript 交流群。群号：974022843
+注意：这是一个梗，但是lzc和JvavScript群里的天才们把它变成了现实。未经 lzc(或 lzc256 , Lzc256) 允许，你可以在 www.jvavscript.xyz 或 jvavscript.xyz 以外的任何地方使用这些代码。 为了满足需求，我们开设了 JvavScript 交流群。群号：974022843
+
+注意：尽管你可以取用该代码，但值得注意的是，这份代码基于MIT协议。在使用过程中，请务必遵循该规则，否则您有可能会负担法律责任。
 
 # 前言
 呕心沥血，终于编出了我最为得意的一门语言：JvavScript！不过由于htnl的特殊性，你需要像导入该死的JavaScript库一样将JVaVScript导入到你的W3b项目中。它具有强大的功能，极小的体积，极快的速度。这种人性化的语言，是您编写web程序的不二之选！
+
+# 更新内容What's New
+
+## Cookie增强
+新增Cookie操作类：c00kie。
+
+获取对象：var a = new c00kie();
+
+初始化：a.lnlt(param,param,param,param);(具体参数请见源文件)
+
+设置cookie：a.s3t();
+
+读取cookie：a.g3t();
+
+销毁cookie：a.cl3ar();
+
+## window增强
+
+新增Window操作类：wind0w。
+
+获取对象：var a = new wind0w();
+
+由于功能太多，而lzc是一个懒人，所以详细功能和描述请自行参阅源代码
 
 # 功能综述
 
