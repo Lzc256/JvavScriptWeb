@@ -1,4 +1,4 @@
-# JvavScriptWeb 0.0.1.0
+# JvavScriptWeb 0.0.1.1
 欢迎使用JvavScript——世界上最好的编程语言！就像引用其他js库一样在你的js程序里引用JvavScript即可体验到它的强大功能！
 
 请认准JvavScript官网: https://www.jvavscript.xyz ，识别假冒站点，你我势必同行！(狗头)
