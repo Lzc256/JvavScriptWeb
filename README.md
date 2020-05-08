@@ -1,0 +1,2 @@
+# JvavScriptWeb
+欢迎使用JvavScript——世界上最好的编程语言！就像引用其他js库一样在你的js程序里引用JvavScript即可体验到它的强大功能！
